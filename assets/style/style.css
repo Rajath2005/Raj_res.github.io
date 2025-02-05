@@ -41,12 +41,18 @@ ul {
   height: 9rem;
   width: 9rem;
   background-color: #52c8ff;
-  border-radius: 100%;
+  border-radius: 50%;
   overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
+
 .picture img {
-  height: 9rem;
-  width: 9rem;
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  object-position: center;
 }
 .name {
   padding: 1rem 0;
