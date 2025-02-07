@@ -3,7 +3,6 @@
 A one-page personal about me website built using HTML, CSS, and JavaScript. It is a simple and clean design, with a focus on showcasing your existing social media following.
 
 ## Live Preview 📱
-![Live Preview](live-preview.png)
 
 👉 [Click for Interactive Version](https://rajath2005.github.io/Raj_res.github.io/preview.html)
 
