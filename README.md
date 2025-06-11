@@ -23,10 +23,6 @@
 ![Mobile Screenshot](assets/Mobile.png)
 
 
-### Theme Variations
-![Theme Showcase](https://via.placeholder.com/800x400/FF9800/FFFFFF?text=Theme+Variations+Screenshot)
-*Add your theme variations screenshot here*
-
 ## 📋 Table of Contents
 
 - [✨ Features](#-features)
@@ -83,7 +79,7 @@ copies of the Software...
 ## 👨‍💻 Author
 
 **Rajath kIran A**
-- GitHub: [Rajath2005]([https://github.com/your-username](https://github.com/Rajath2005))
+- GitHub: [Rajath2005]([https://github.com/Rajath2005](https://github.com/Rajath2005))
 - LinkedIn: [Your LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/rajath-kiran/))
 - Email: your.arajath5463@gmail.com
 
