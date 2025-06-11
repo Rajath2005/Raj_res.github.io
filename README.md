@@ -16,12 +16,12 @@
 ## 📸 Screenshots
 
 ### Desktop View
-![Desktop Screenshot](https://via.placeholder.com/800x600/4CAF50/FFFFFF?text=Desktop+View+Screenshot)
-*Add your desktop screenshot here*
+![Desktop Screenshot](assets/Desktop.png)
+
 
 ### Mobile View
-![Mobile Screenshot](https://via.placeholder.com/300x600/2196F3/FFFFFF?text=Mobile+View+Screenshot)
-*Add your mobile screenshot here*
+![Mobile Screenshot](assets/Mobile.png)
+
 
 ### Theme Variations
 ![Theme Showcase](https://via.placeholder.com/800x400/FF9800/FFFFFF?text=Theme+Variations+Screenshot)
